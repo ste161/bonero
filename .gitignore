@@ -1,0 +1,15 @@
+# Android Studio
+.gradle/
+.idea/
+*.iml
+local.properties
+build/
+captures/
+ECHO is off.
+# Системные файлы
+.DS_Store
+Thumbs.db
+ECHO is off.
+# Временные файлы
+*.log
+*.tmp
